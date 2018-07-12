@@ -1,3 +1,4 @@
+//comments part
 <?php
 /**
  * @package WordPress
