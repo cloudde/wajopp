@@ -1,3 +1,4 @@
+// footer of site
 <?php colabs_footer_before(); ?>
 
 <?php colabs_foot(); ?>
