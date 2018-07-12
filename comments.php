@@ -1,8 +1,7 @@
-//comments part
 <?php
 /**
  * @package WordPress
- * @subpackage waj
+ * @subpackage Classifier
  * 
  */
 // Do not delete these lines
